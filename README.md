@@ -209,4 +209,5 @@ specific open-source license.
 ## Author
 
 SUBHAJIT JANA
-GitHub: https://github.com/subhajitjana15112003/ATS_SCORER
+GitHub: https://github.com/subhajitjana15112003/ATS_RESUME_SCORER
+
